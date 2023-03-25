@@ -3,6 +3,9 @@
 在 CodeSandbox 部署 xray 节点
 
 打开CodeSandbox官网：https://codesandbox.io/signin ，登陆自己的GitHub / 谷歌 / 苹果账号
+
+具体操作方法请看教程：教程链接：https://blog.misaka.rest/2023/03/24/codesandbox-xray/
+
 ## 项目特点
 
 * 本项目用于在任意一家PaaS云服务商部署xray ，采用的方案为 Nginx + WebSocket + VMess/Vless/Trojan/Shadowsocks + TLS
@@ -22,8 +25,6 @@
   | SS_WSPATH | 否 | /shadowsocks | 以 / 开头 |
 
 ## 鸣谢
-
-教程链接：https://blog.misaka.rest/2023/03/24/codesandbox-xray/
 
 ifeng 的 v2ray 项目：https://github.com/hiifeng/V2ray-for-Codesandbox
 
